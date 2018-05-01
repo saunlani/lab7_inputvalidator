@@ -19,7 +19,7 @@ namespace lab7_inputvalidator
          * 
          * Method that will validate date based on the format of dd/mm/yyyy.
          * 
-         * TODO: ex challenges: method for validating html elements.  (<p> and </p>
+         * a method for validating html elements.  (<p> and </p>
          * are valid element formats.  <h1 <h1> are not,  dont worry about 
          * special cases. */
 
